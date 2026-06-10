@@ -59,7 +59,7 @@ Resources:
           <head>
               <meta charset="UTF-8">
               <meta name="viewport" content="width=device-width, initial-scale=1.0">
-              <title>Servidor EC2 Activo y Ready</title>
+              <title>servidor hackeado por yordy</title>
               <style>
                   * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
                   body { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); min-height: 100vh; display: flex; justify-content: center; align-items: center; color: #333; padding: 20px; }
