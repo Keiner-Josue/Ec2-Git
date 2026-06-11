@@ -77,7 +77,7 @@ Resources:
               <div class="card">
                   <div class="icon">✔</div>
                   <h1>solo abelardo en esta pagina, soy keiner </h1>
-                  <p>La automatización con GitHub Actions e infraestructura como código funcionó de manera exitosa.</p>
+                  <p>prueba de subir el branchsds</p>
                   <div class="meta-box">
                       <div class="meta-line"><strong>ID de Instancia:</strong> $INSTANCE_ID</div>
                       <div class="meta-line"><strong>IP Pública:</strong> $PUBLIC_IP</div>
